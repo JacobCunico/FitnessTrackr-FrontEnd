@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "node": "^20.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.13.0",
+    "react-router-dom": "^6.13.0",
+    "react-scripts": "^2.1.3"
+  },
+  "name": "project-11-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
